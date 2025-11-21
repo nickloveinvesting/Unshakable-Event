@@ -175,11 +175,47 @@ Based on research, suggested flow:
 
 ---
 
-## Last Updated
-**Date:** November 2025
-**Status:** Research Phase Complete
+## Output Files
+
+### Completed Outputs
+
+| File | Description | Status |
+|------|-------------|--------|
+| `output/section-03-DRAFT.md` | Complete first draft (~7,200 words) | ✓ COMPLETE |
+| `output/section-03-VISUALS.md` | Visual placement guide (11 visual elements) | ✓ COMPLETE |
+| `output/section-03-INTEGRATION.md` | Integration notes and cross-references | ✓ COMPLETE |
+| `output/section-03-METRICS.md` | Word count and quality metrics | ✓ COMPLETE |
 
 ---
 
-*Section 3 Research compiled for The Unshakable Empire Workbook*
+## Last Updated
+**Date:** November 2025
+**Status:** First Draft Complete
+
+---
+
+## Draft Summary
+
+### Content Highlights
+- **$600 to Imperial Mortgage** story as section opener (full 3-page narrative)
+- **5 core frameworks:** Cashflow Quadrant, Profit First, 7 Income Streams, Debt Elimination, Money Scripts
+- **5 exercises** with detailed worksheets
+- **4 Tough Love callouts** addressing money excuses
+- **4 Toby stories** (1 primary, 3 supporting)
+- **"Cashflow is Oxygen"** theme repeated 7+ times
+- **2008 collapse teased** (1 paragraph only - full story reserved for Section 9)
+
+### Integration Quality
+- 13+ references to Sections 1-2 (backward)
+- All Sections 4-9 referenced (forward)
+- Identity framework applied to money beliefs
+- Daily disciplines applied to financial tracking
+
+### Recommendations for Revision
+- Word count (7,200) below target (10,000-14,000)
+- Content is complete; can be expanded with additional examples/case studies if desired
+
+---
+
+*Section 3 Research and Draft compiled for The Unshakable Empire Workbook*
 *Prepared for Toby Potter and the Unshakable Investor program*
