@@ -123,19 +123,50 @@ Based on research, suggested flow:
 
 ## Next Steps
 
-1. **Content Development:** Transform research into workbook modules
-2. **Exercise Refinement:** Adapt academic exercises for business audience
-3. **Assessment Design:** Create proprietary IGNITE identity assessment
-4. **Visual Design:** Develop workbook layouts and graphics
-5. **Pilot Testing:** Test with IGNITE cohort for feedback
+1. ~~**Content Development:** Transform research into workbook modules~~ COMPLETE
+2. ~~**Exercise Refinement:** Adapt academic exercises for business audience~~ COMPLETE
+3. **Assessment Design:** Create proprietary IGNITE identity assessment (future phase)
+4. **Visual Design:** Develop workbook layouts and graphics (design phase)
+5. **Voice Integration:** Tier 3 agent to enhance Toby's voice throughout
+6. **Pilot Testing:** Test with IGNITE cohort for feedback (future phase)
+
+---
+
+## Draft Outputs (Tier 2 Synthesis Complete)
+
+| Output File | Status | Location |
+|-------------|--------|----------|
+| section-01-DRAFT.md | COMPLETE | output/ |
+| section-01-VISUALS.md | COMPLETE | output/ |
+| section-01-INTEGRATION.md | COMPLETE | output/ |
+| section-01-METRICS.md | COMPLETE | output/ |
+
+### Draft Metrics Summary
+- **Word Count:** 6,739 words (~22 pages)
+- **Exercises:** 5 complete with instructions
+- **Forward References:** 12 connections to Sections 2-9
+- **Toby Stories:** 4 used, 5 reserved for other sections
+- **Visual Elements:** 4 diagrams, 5 worksheets, 8 callout boxes
+
+### Draft Structure
+1. Section Overview
+2. Introduction: The Identity Crisis (Toby farm story opener)
+3. Part 1: The Neuroscience of Identity
+4. Part 2: Cognitive Frameworks for Identity Change
+5. Part 3: Psychological Archetypes & Leadership Identity
+6. Part 4: Narrative Identity - Rewriting Your Story
+7. Part 5: The "I Am Becoming..." Framework
+8. Part 6: Self-Assessment & Identity Clarity
+9. Summary: Identity Is Everything
+10. Transition to Section 2
 
 ---
 
 ## Last Updated
-**Date:** November 2025
-**Status:** Research Phase Complete
+**Date:** November 21, 2025
+**Status:** Tier 2 Synthesis Complete - Ready for Tier 3 Voice Integration
 
 ---
 
-*Section 1 Research compiled for The Unshakable Empire Workbook*
+*Section 1 Research and Draft compiled for The Unshakable Empire Workbook*
 *Prepared for Toby Potter and the Unshakable Investor program*
