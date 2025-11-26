@@ -1,0 +1,100 @@
+{
+  "influencer": "Tony Robbins",
+  "research_date": "2025-11-25",
+  "platform": "LinkedIn",
+  "metrics": {
+    "followers": 7000000,
+    "total_content": 3000,
+    "avg_engagement": "DATA_UNAVAILABLE",
+    "articles_published": 77
+  },
+  "account_types": {
+    "personal_profile": {
+      "handle": "officialtonyrobbins",
+      "followers": "7M+",
+      "description": "#1 New York Times best-selling author, life and business strategist, philanthropist, entrepreneur"
+    },
+    "company_pages": {
+      "tony_robbins_companies": {
+        "followers": 52510
+      },
+      "robbins_research_international": {
+        "followers": 67591
+      },
+      "tony_robbins_foundation": {
+        "followers": 4859
+      },
+      "tony_robbins_mastery_university": {
+        "followers": 5967
+      }
+    }
+  },
+  "content_analysis": {
+    "primary_themes": [
+      "Motivational insights and business strategy",
+      "Success psychology and mindset",
+      "Leadership and peak performance",
+      "Personal development and growth",
+      "Podcast promotions (The Holy Grail of Investing)",
+      "Humanitarian work and philanthropy",
+      "Business empire updates (50+ companies, $6B+ annual revenue)"
+    ],
+    "posting_frequency": "Regular posting with 3000+ posts total. Active content creator on the platform.",
+    "content_formats": [
+      "Motivational quotes and business insights",
+      "Long-form articles (77 published)",
+      "Video content from events and seminars",
+      "Behind-the-scenes clips and participant stories",
+      "Podcast episode promotions",
+      "Thought leadership posts",
+      "Question-based engagement posts"
+    ],
+    "style_notes": "LinkedIn content blends motivational storytelling with actionable tools for growth and leadership. Daily inspiration, mindset shifts, and empowering stories. Professional tone suited for business networking audience."
+  },
+  "content_strategy": {
+    "platform_philosophy": "LinkedIn is a must for any business, brand or working professional — most powerfully used as continual networking, recruiting and value sharing.",
+    "content_guidelines": "Avoid excessively personal content not relevant to business networking. No spam in LinkedIn groups (no obvious ads or low-value promotional posts).",
+    "content_multiplier_method": "Content is repurposed and tailored specifically for LinkedIn. Also contributes to Entrepreneur.com, Arianna Huffington's Medium publication, and other platforms.",
+    "strategic_approach": "Platform-specific content strategy - figure out what type of content spreads best on each social channel rather than identical cross-posting."
+  },
+  "engagement_data": {
+    "sample_post_comments": 193,
+    "total_posts": "3000+",
+    "total_articles": 77,
+    "engagement_drivers": [
+      "Behind-the-scenes event clips",
+      "Participant transformation stories",
+      "Humanitarian work showcasing (feeding programs, education initiatives)",
+      "Question-based posts encouraging audience interaction",
+      "Motivational quotes with business application"
+    ]
+  },
+  "professional_credibility": {
+    "title": "Nation's #1 Life & Business Strategist",
+    "reach": "Empowered 50M+ people from 195 countries",
+    "author_achievements": "7 internationally bestselling books, 3 #1 NY Times bestsellers (Money: Master the Game, Unshakeable, Life Force)",
+    "business_empire": "50+ companies across wellness, hospitality, finance, education generating $6B+ in annual revenue",
+    "high_profile_clients": "Bill Clinton, Oprah, Serena Williams, Marc Benioff",
+    "events": "10M+ attendees at live seminars, created #1 personal & professional development program"
+  },
+  "sample_content_themes": {
+    "example_posts": [
+      "Success isn't just about strategy. It's about the heart, the mindset, and the hunger you bring to the table.",
+      "What Business Are You Really In? (Article)",
+      "The Question That Transformed My Life ... Can Yours? (Article)",
+      "How I Plan My Life—Not Just My Day (Article)",
+      "The Holy Grail of Investing Podcast promotions"
+    ]
+  },
+  "sources": [
+    "https://www.linkedin.com/company/tony-robbins-companies",
+    "https://www.linkedin.com/company/robbins-research-international",
+    "https://www.linkedin.com/in/officialtonyrobbins/",
+    "https://www.linkedin.com/company/the-tony-robbins-foundation",
+    "https://www.linkedin.com/company/tony-robbins-mastery-university",
+    "https://www.exeeddigitals.com/post/linkedin-voices-tony-robbins",
+    "https://bdow.com/stories/tony-robbins-marketing/",
+    "https://www.linkedin.com/pulse/tony-robbins-what-business-you-really-tony-robbins-bqogc",
+    "https://www.linkedin.com/pulse/tony-robbins-question-transformed-my-life-can-yours-tony-robbins-aim9c"
+  ]
+}

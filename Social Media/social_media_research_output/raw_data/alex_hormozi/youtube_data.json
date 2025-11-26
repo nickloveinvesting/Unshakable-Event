@@ -1,0 +1,80 @@
+{
+  "influencer": "Alex Hormozi",
+  "handle": "@alexhormozi",
+  "research_date": "2025-11-25",
+  "platform": "YouTube",
+  "metrics": {
+    "followers": 3470000,
+    "total_content": 3673,
+    "total_views": 737809701,
+    "avg_views_per_video": 214961,
+    "avg_views_monthly": 20056327,
+    "monthly_subscriber_growth": 65218,
+    "shorts_channel_subscribers": 449,
+    "shorts_channel_videos": 59,
+    "shorts_channel_views": 119000,
+    "estimated_annual_revenue": "1200000",
+    "recent_growth_rate": "2.00%"
+  },
+  "content_analysis": {
+    "primary_themes": [
+      "Business scaling strategies",
+      "Sales techniques and mastery",
+      "Wealth creation and entrepreneurship",
+      "Business models and strategy",
+      "Personal development",
+      "Fitness and lifestyle"
+    ],
+    "posting_frequency": "3 long-form videos per week + daily Shorts",
+    "content_formats": [
+      "Long-form educational videos",
+      "YouTube Shorts",
+      "Book launch events",
+      "Live streams (event-based)"
+    ],
+    "style_notes": "Educational content with high production value. Fast-paced editing with jump cuts. Direct-to-camera talking head style. Heavy use of captions and text overlays. Focus shifted from wide topics (fitness, relationships) to narrow business-specific content for business owner audience.",
+    "video_length": "Long-form content prioritized over short-form for attracting engaged viewers",
+    "upload_consistency": "Never misses deadlines - works with agency for accountability",
+    "content_repurposing": "Creates once, then multiplies into 250-300+ pieces weekly across all platforms using AI-powered workflow"
+  },
+  "top_performing_videos": [
+    {
+      "title": "Give me 20 Minutes and I'll Give You Back 20 Years of Your Life",
+      "views": 403900
+    },
+    {
+      "title": "[VIP] $100M Money Models Live Launch",
+      "views": 183000
+    },
+    {
+      "title": "If you're watching this we did a $100 million book launch",
+      "views": 156200
+    },
+    {
+      "title": "We get 34.2M Views a Month. Here's how (just copy me)",
+      "views": 122000
+    }
+  ],
+  "strategic_shifts": [
+    "Prioritized revenue over views, focusing on revenue per thousand impressions (RPM)",
+    "Emphasized long-form content over short-form for more engaged viewers",
+    "Moved from wide topics to narrow, business-centric topics",
+    "Targeted business owners specifically rather than general audience"
+  ],
+  "engagement_data": {
+    "subscriber_conversion_increase": "24.6%",
+    "comments_per_view_increase": "25%",
+    "opt_ins_per_week_increase": "26%",
+    "book_sales_increase": "100%"
+  },
+  "sources": [
+    "https://vidiq.com/youtube-stats/channel/UCUyDOdBWhC1MCxEjC46d-zw/",
+    "https://socialblade.com/youtube/channel/UCUyDOdBWhC1MCxEjC46d-zw",
+    "https://socialblade.com/youtube/handle/alexhormozi",
+    "https://hypeauditor.com/youtube/UCUyDOdBWhC1MCxEjC46d-zw/",
+    "https://fuelyourdigital.com/post/alex-hormozis-100m-youtube-strategy/",
+    "https://www.favikon.com/blog/whos-alex-hormozi",
+    "https://expertbusiness.com/be-the-expert/alex-hormozi-major-influencer-changed-his-content-strategy/",
+    "https://www.coursecreatorlab.co/blog/alex-hormozis-6-content-lessons-from-gaining-78m-followers-in-40-months"
+  ]
+}

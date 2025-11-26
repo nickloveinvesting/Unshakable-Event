@@ -1,0 +1,122 @@
+{
+  "influencer": "Brendon Burchard",
+  "research_date": "2025-11-25",
+  "platform": "Multi-Platform LIVE Strategy",
+  "metrics": {
+    "followers": "6,000,000+ across all platforms",
+    "total_content": "400+ live virtual classes since 2009",
+    "avg_engagement": "DATA_UNAVAILABLE",
+    "attendees_from_countries": 175,
+    "total_students_reached": "Millions from 175+ countries"
+  },
+  "content_analysis": {
+    "primary_themes": [
+      "High Performance Training",
+      "Productivity Strategies",
+      "Confidence Building",
+      "Team Building",
+      "Mindset Development",
+      "People Skills",
+      "Personal Development Seminars",
+      "Coaching Certification Training"
+    ],
+    "live_frequency": {
+      "daily": "New audio life strategy sessions (via GrowthDay)",
+      "weekly": "Live classes with Brendon and world's leading personal growth teachers (via GrowthDay)",
+      "monthly": "2-hour personal development seminar (every First Friday)",
+      "since_2009": "Monthly 2-hour seminars consistently for 15+ years"
+    },
+    "content_formats": [
+      "2-hour personal development seminars",
+      "Live high-performance virtual classes",
+      "4-day intensive certification trainings (CHPC)",
+      "Monthly momentum sessions (ULTRA Mastermind)",
+      "Live weekly classes and watch parties (GrowthDay)",
+      "Interactive role plays during training",
+      "Live Q&A coaching sessions"
+    ],
+    "duration_patterns": {
+      "monthly_seminars": "2 hours",
+      "certification_training": "4 days intensive",
+      "weekly_classes": "Varies (typically 1-2 hours)",
+      "daily_audio": "Short-form daily strategies"
+    },
+    "style_notes": "Interactive, high-energy, direct coaching approach. Combines teaching with Q&A, role-playing, and real-time problem-solving. Focuses on science-backed strategies and actionable frameworks. Creates community atmosphere with global participants."
+  },
+  "platform_breakdown": {
+    "youtube_live": {
+      "presence": "Major platform for live sessions",
+      "subscribers": "1,000,000+",
+      "content_type": "Live seminars, recorded classes, unscripted motivational series"
+    },
+    "growthday_app": {
+      "presence": "Primary live delivery platform",
+      "features": "Daily audio strategies, weekly live classes, monthly 2-hour seminars, watch parties, challenges",
+      "teachers": "Brendon Burchard + world's leading personal growth teachers (Ed Mylett, Mel Robbins, Wayne Dyer, Trent Shelton, Lisa Bilyeu, Natalie Ellis)",
+      "first_friday_seminars": "Exclusive 2-hour personal development seminar every First Friday"
+    },
+    "instagram_live": {
+      "presence": "Supplementary live content",
+      "followers": "1,000,000",
+      "integration": "Promotes GrowthDay live events"
+    }
+  },
+  "live_programs": {
+    "monthly_seminars": {
+      "frequency": "Every First Friday",
+      "duration": "2 hours",
+      "platform": "GrowthDay",
+      "running_since": "2009",
+      "total_delivered": "150+ seminars (15 years x 12 months)"
+    },
+    "chpc_certification": {
+      "name": "Certified High Performance Coach Program",
+      "format": "4-day live online intensive",
+      "led_by": "Brendon Burchard",
+      "includes": "Live training sessions, interactive role plays",
+      "tuition": "$15,000 USD",
+      "description": "First and only science-backed, high performance coaching certification"
+    },
+    "ultra_mastermind": {
+      "format": "Monthly virtual momentum sessions",
+      "co_hosted": "Brendon Burchard & Lewis Howes",
+      "focus": "Inner greatness and ultra success in every area of life"
+    },
+    "growthday_weekly": {
+      "frequency": "Weekly",
+      "format": "Live classes, watch parties, challenges",
+      "teachers": "Brendon + rotating world-class personal development experts"
+    }
+  },
+  "repurposing_strategy": {
+    "live_to_recorded": "Live sessions archived and made available on-demand",
+    "multi_format": "Live content repurposed into podcast episodes, YouTube videos, social clips, quotes",
+    "circular_viralocity": "Content recycled and promoted across platforms for maximum reach",
+    "course_creation": "Live classes compiled into comprehensive online courses (40+ courses created)",
+    "content_library": "400+ live classes available for review and continued learning"
+  },
+  "interaction_style": {
+    "teaching_method": "Direct coaching, storytelling, science-backed frameworks",
+    "audience_engagement": "Q&A sessions, role-playing, interactive exercises",
+    "community_building": "Global community participation, watch parties, shared challenges",
+    "authenticity": "Personal stories from 25 years as performance leader, vulnerability and genuine care",
+    "energy": "High-energy, motivational, action-oriented"
+  },
+  "sources": [
+    "https://www.brendon.ai/",
+    "https://www.growthday.com",
+    "https://www.growthday.com/chpc",
+    "https://www.growthday.com/ultra",
+    "https://www.highperformanceinstitute.com/",
+    "https://brendon.com/7day-hpa-live/",
+    "https://brendon.live/"
+  ],
+  "track_record": {
+    "years_teaching_live": "15+ years (since 2009)",
+    "total_live_classes": "400+",
+    "total_courses_created": "40+",
+    "total_4day_seminars": "100+",
+    "countries_reached": "175+",
+    "total_students": "2,000,000+ completed courses and video series"
+  }
+}

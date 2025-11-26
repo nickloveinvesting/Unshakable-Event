@@ -1,0 +1,156 @@
+{
+  "influencer": "Alex Hormozi",
+  "research_date": "2025-11-25",
+  "platform": "LIVE Video (Multi-Platform)",
+  "metrics": {
+    "followers": 0,
+    "total_content": 0,
+    "avg_engagement": 0.0,
+    "live_event_viewers": 100000,
+    "hormozi_hotline_viewers": 12000,
+    "live_frequency_model": "Event-based (not regularly scheduled)"
+  },
+  "content_analysis": {
+    "primary_themes": [
+      "Book launches and product releases",
+      "Business Q&A sessions",
+      "Scaling workshops",
+      "Entrepreneurship advice",
+      "Seven deadly growth sins",
+      "Pricing and service delivery optimization",
+      "Sales and marketing strategies"
+    ],
+    "posting_frequency": "Event-based: Major product launches + periodic Q&A sessions",
+    "content_formats": [
+      "Marathon live streams (6-7+ hours for major events)",
+      "Hormozi Hotline Q&A sessions",
+      "Business Scaling Workshop Live Q&As",
+      "Podcast live recordings",
+      "Virtual book launch events",
+      "Multi-day event streams"
+    ],
+    "style_notes": "Marathon-length educational sessions. Interactive Q&A format. Deep-dive teaching with actionable bonuses. Repurposed into podcast episodes. High production value for major launches."
+  },
+  "live_stream_platforms": {
+    "youtube": {
+      "usage": "Primary platform for major events",
+      "format": "Marathon streams (6-7+ hours)",
+      "reach": "100,000+ live viewers for major launches",
+      "subscriber_base": 3470000
+    },
+    "live_acq_com": {
+      "usage": "Hormozi Hotline Q&A sessions",
+      "format": "Interactive Q&A with audience questions",
+      "reach": "12,000+ viewers per session"
+    },
+    "instagram": {
+      "usage": "Announcements and promotion",
+      "follower_base": 4030645,
+      "live_frequency": "DATA_UNAVAILABLE - specific Instagram Live frequency not found"
+    },
+    "linkedin": {
+      "usage": "Announcements for live sessions",
+      "follower_base": 714000,
+      "format": "Mozination Q&A series announcements"
+    }
+  },
+  "major_live_events": {
+    "100m_money_models_launch": {
+      "date": "August 16, 2025",
+      "duration_breakdown": {
+        "day_1": "7 hours 18 minutes",
+        "day_2": "6 hours 41 minutes (encore)",
+        "day_3": "4.5+ hours (final push)"
+      },
+      "total_duration": "18+ hours over 3 days",
+      "platform": "YouTube",
+      "viewers": "100,000+ organic reach",
+      "results": "$150M in book sales in one day",
+      "achievement": "Guinness World Record for most non-fiction book sales in 24 hours",
+      "format": "Marathon live streams blending in-depth teaching with bonuses"
+    },
+    "100m_leads_launch": {
+      "date": "August 19, 2023",
+      "format": "Free virtual book event",
+      "platform": "YouTube"
+    }
+  },
+  "hormozi_hotline": {
+    "format": "Live Q&A sessions",
+    "platform": "live.acq.com",
+    "interaction": "Viewers can watch and ask questions directly",
+    "typical_attendance": "12,000 people",
+    "topics": "Business advice, hard days, entrepreneurship challenges"
+  },
+  "podcast_live_format": {
+    "show_name": "The Game with Alex Hormozi",
+    "episode_example": "Business Scaling Workshop Live Q&A (Ep 827)",
+    "release_date": "January 17, 2025",
+    "format": "Live Q&A with callers",
+    "platforms": ["Apple Podcasts", "Spotify", "Audible"],
+    "topics_covered": [
+      "Seven deadly growth sins",
+      "Serving too many avatars",
+      "Staying underpriced",
+      "Chasing new businesses",
+      "Over-expanding too early"
+    ]
+  },
+  "live_qa_series": {
+    "series_name": "1/0 live",
+    "format": "Q&A where audience submits questions in comments",
+    "selection_process": "Selected participants receive DM instructions to join live",
+    "example_topics": ["Advice for Hard Days"],
+    "depth": "Goes deeper on topics together with audience"
+  },
+  "scaling_workshops": {
+    "organizer": "Acquisition.com",
+    "format": [
+      "Keynote speakers (Alex and Leila Hormozi + portfolio team)",
+      "Breakout sessions with subject matter experts",
+      "Live Q&A components"
+    ],
+    "requirements": {
+      "business_status": "Active in business",
+      "revenue_threshold": "Minimum revenue requirement",
+      "industry": "Industry where Acquisition.com can provide value"
+    },
+    "value_proposition": "No question left unanswered"
+  },
+  "interaction_style": {
+    "approach": "Direct, educational, high-value delivery",
+    "audience_engagement": "Question submission and selection for live participation",
+    "teaching_method": "Deep dives with practical, actionable advice",
+    "authenticity": "Shares real experiences and mistakes openly"
+  },
+  "repurposing_strategy": {
+    "live_to_podcast": "Live sessions repurposed into podcast episodes",
+    "live_to_clips": "Marathon streams clipped into short-form content across platforms",
+    "cross_platform_promotion": "Announces live events across Instagram, LinkedIn, X, YouTube",
+    "content_multiplication": "Single live event becomes dozens of content pieces"
+  },
+  "live_event_characteristics": {
+    "duration": "Marathon-length (4.5 to 7+ hours for major events)",
+    "frequency": "Event-based rather than regularly scheduled",
+    "themes": "Product launches, Q&A, workshops, business education",
+    "production_quality": "High production value for major launches",
+    "audience_building": "Leverages organic reach from 10M+ total followers across platforms"
+  },
+  "key_live_strategies": {
+    "build_organic_audience_first": "Built 4M Instagram + 3.55M YouTube subscribers over years before major live events",
+    "marathon_format": "Extended duration keeps audience engaged and drives conversions",
+    "teaching_with_selling": "Blends in-depth education with product offerings",
+    "multi_day_approach": "Spreads major launches over 2-3 days to maintain momentum",
+    "cross_platform_amplification": "Uses all channels to drive to main live event"
+  },
+  "sources": [
+    "https://www.linkedin.com/posts/taz-zammit_alexhormozi-livestreaming-liveselling-activity-7363324251539476480-eCNF",
+    "https://lilyraya.medium.com/alex-hormozi-just-broke-the-internet-he-pulled-off-one-of-the-biggest-book-launches-of-all-time-10afc08b4be2",
+    "https://x.com/AlexHormozi/status/1956857948061458464",
+    "https://startupspells.com/p/alex-hormozi-100m-money-models-book-launch-marketing-playbook-webinar-upsells-sms",
+    "https://strategicpete.com/blog/how-to-market-a-book-like-alex-hormozi/",
+    "https://open.spotify.com/show/6YNopzKDGDwf0auIpPTIID",
+    "https://podcasts.apple.com/us/podcast/business-scaling-workshop-live-q-a-ep-827/id1254720112?i=1000684365169",
+    "https://www.linkedin.com/posts/alexhormozi_mozination-ill-be-doing-a-live-qa-tomorrow-activity-7137629272055185408-XvUE"
+  ]
+}
