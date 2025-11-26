@@ -1,173 +1,128 @@
-# PROMPT: Create 100 Viral Social Media Posts for IGNITE Program
+# PROMPT: Create 100 Viral Visual Content Posts for Toby Potter & The Unshakable Investor Brand
+
 ## Batch-Based Approach (25 Posts Per Session)
 
 **Copy and paste everything below this line into a new Claude conversation:**
 
 ---
 
-# IGNITE SOCIAL MEDIA CONTENT CREATION PROMPT
+# TOBY POTTER / UNSHAKABLE INVESTOR - VIRAL VISUAL CONTENT CREATION
+
+## YOUR FIRST TASK: REVIEW THE RESEARCH
+
+**IMPORTANT:** Before creating any content, you MUST first read and analyze the social media research files in this repository to inform your content strategy:
+
+### Required Research Files to Read:
+1. **`Social Media/Social_Media_Campaign_Research_Report.md`** - Comprehensive analysis of 5 business influencers (Alex Hormozi, Andy Elliott, Tony Robbins, Brendon Burchard, Russell Brunson)
+2. **`Social Media/social_media_research_output/final_reports/Executive_Summary.md`** - Key insights and best practices
+3. **`Social Media/30_VIRAL_VIDEO_IDEAS.md`** - Viral content frameworks and hook patterns
+4. **`Social Media/social_media_research_output/analysis/comparative_analysis.md`** - Cross-platform strategy patterns
+
+### Additional Context Files:
+- **`Toby Potter Docs/RAG Knowledge of Toby Potter/Toby_Potter_Complete_AI_Knowledge_Base_Mindset_Philosophy_Business_Principles_Mantras_Stories_Resilience_Training.md`** - Toby's voice, mantras, and philosophy
+- **`11-25-Team-Meeting-Mostly-on-IGNITE-Program-13482266-4ebf.md`** - Recent strategy discussions and insights
+
+**After reading these files, apply the research insights to create content that follows proven viral patterns.**
+
+---
 
 ## INSTRUCTIONS
 
-You are a viral content strategist creating social media posts for the IGNITE program by Toby Potter.
+You are a viral content strategist creating **visual-first social media content** for Toby Potter and The Unshakable Investor brand.
 
-**IMPORTANT:** Create **25 posts per batch**. After this batch, I will return for the next 25. We are creating 100 total posts across 4 sessions:
-- **Batch 1:** Posts 1-25 (Wake Up Call + Transformation Stories)
-- **Batch 2:** Posts 26-50 (Tactical Systems + Faith & Purpose)
-- **Batch 3:** Posts 51-75 (Business & Wealth + Relationship & Legacy)
-- **Batch 4:** Posts 76-100 (Behind the Scenes + Mixed Viral Formats)
+### CRITICAL GUIDELINES:
 
-**For this session, create Batch [INSERT BATCH NUMBER].**
+1. **This is BRAND BUILDING content, NOT program marketing**
+   - Goal: Build awareness, followers, and engagement
+   - DO NOT directly promote IGNITE or any paid programs
+   - Focus on value, entertainment, and emotional connection
+   - Build the audience first - sales come later
 
----
+2. **Visual-First Approach**
+   - Every post MUST have a detailed visual/image description
+   - Primarily infographics, quote graphics, carousel slides, memes, visual frameworks
+   - Some video concepts are fine, but majority should be static visuals
+   - All visuals designed for Gemini (nano banana) image generation
 
-## RESEARCH FOUNDATION
+3. **Platform Focus: LinkedIn, Instagram, TikTok**
+   - LinkedIn: Professional infographics, business insights, thought leadership
+   - Instagram: Carousels, quote graphics, visual frameworks, reels concepts
+   - TikTok: Entertaining visuals, meme formats, trending templates
 
-This prompt is informed by comprehensive social media research including:
-- **5 Major Influencer Analysis:** Alex Hormozi (3.47M YouTube), Andy Elliott (2M Instagram), Tony Robbins (8M Instagram), Brendon Burchard, Russell Brunson
-- **80+ web searches** across YouTube, Instagram, LinkedIn, and LIVE video strategies
-- **Team strategy meeting insights** from November 25, 2025
-
-### Key Research Findings to Apply:
-
-**From Alex Hormozi:**
-- $90K/month content investment, 250-300 pieces/week
-- "Create once, repurpose forever" - 1 video = 30+ derivatives
-- Strategic pivot to specific audience ($3M-$30M business owners)
-- Lead with failures, not flexing success
-- Tested 3,000 ads to find 7 that worked
-
-**From Andy Elliott:**
-- 220+ pieces/month, 98.6% YouTube like rate
-- Confrontational "tough love" messaging works
-- Short-form dominance (Reels, Shorts, TikTok)
-- Raw, authentic content outperforms polished
-
-**From Tony Robbins:**
-- 85-10-5 Rule: 85% value, 10% community, 5% promotional
-- Behind-the-scenes content outperforms polished
-- AI chatbot integration ("DM 'AI' - ask Tony anything")
-
-**From Team Meeting (Nov 25, 2025) - Key Strategic Quotes:**
-
-> "Two biggest drivers of growth on social media are posting content with **entertainment and emotion**. Both of those things... Entertainment and emotion gets new people and education keeps them." - Wesley
-
-> "We had almost 27,000 views on that [live video] inside a week... But those are also those dramas of the landlord having shitty tenants. People loved it... We had 60-130K views on that drama content." - Toby
-
-> "Raw, honest content wins... Show vulnerabilities, not just wins." - Team consensus
-
-> "We want 500 people on that [Monday IGNITE] call... That's got to be our goal in the next 45 days." - Toby
-
-> "We don't have enough presence to charge what we know the value of the product is." - Toby
-
-> "Those 580 people [who clicked the ad] need to be getting hit every day." - Toby
-
-> "LinkedIn has a crazy amount of virality potential and your... our target audience is probably on there." - Wesley
+4. **Content Mix (Per 25-Post Batch):**
+   - 8-10 Infographics/Visual Frameworks
+   - 5-7 Quote Graphics
+   - 4-5 Carousel Posts (multi-slide)
+   - 3-4 Meme/Entertainment Format
+   - 2-3 Video Concepts (optional)
 
 ---
 
-## ABOUT IGNITE PROGRAM
+## BATCH STRUCTURE
 
-**What It Is:** A 28-day tactical, faith-centered transformation protocol designed to rebuild lives from the inside out.
+Create **25 posts per batch**. Return for the next 25. We are creating 100 total posts across 4 sessions:
 
-**Core Philosophy:** "This is a partnership. This is a relationship. This is about us understanding, evolving, growing, and building with each other unlike any other course out there."
+- **Batch 1:** Posts 1-25 (Mindset & Identity + Business Wisdom)
+- **Batch 2:** Posts 26-50 (Success Frameworks + Controversial Takes)
+- **Batch 3:** Posts 51-75 (Real Estate & Wealth + Leadership)
+- **Batch 4:** Posts 76-100 (Entertainment/Memes + Motivational)
 
-**The Problem It Solves:** Combats "drift" - mindless scrolling, reactive decision-making, lack of direction, feeling stuck despite having potential.
-
-**Three Pillars:**
-1. **Mental Mastery** - Reclaim inner control, eliminate self-sabotage
-2. **Spiritual Authority** - Faith-centered grounding and purpose
-3. **Physical Stewardship** - Disciplined body, disciplined life
-
-**4-Week Structure:**
-- Week 1: Establishing Command (reclaim control)
-- Week 2: Forging Vision (crystal-clear future self)
-- Week 3: Self-Audit (brutal honesty and accountability)
-- Week 4: Solidifying Protocol (integrate daily disciplines)
-
-**Pricing:**
-- Regular: $99/month
-- December Special: $19.95/month (lifetime locked rate for December signups)
-
-**Goal:** 500 members on Monday morning IGNITE calls within 45 days
-
-**Target Audience:**
-- Entrepreneurs and business builders (ages 30-55)
-- Real estate investors
-- People feeling stuck despite having potential
-- Those wanting proven SYSTEMS, not just motivation
-- Faith-aligned individuals seeking practical transformation
-- People who've hit a wall and need accountability
+**For this session, create Batch [INSERT BATCH NUMBER: 1, 2, 3, or 4].**
 
 ---
 
-## TOBY POTTER'S BRAND VOICE & MANTRAS
+## BRAND CONTEXT
 
-Use these authentic phrases throughout the content:
+### About Toby Potter
+- Entrepreneur, real estate investor, business coach
+- Built multiple businesses from $600 to multi-million dollar portfolios
+- Known for direct, no-BS approach to success
+- Faith-centered but practical
+- Focus on systems over motivation
 
-**Core Mantras (Use These Exact Phrases):**
+### Brand: The Unshakable Investor
+- Target audience: Entrepreneurs, business builders, real estate investors (ages 30-55)
+- Brand voice: Bold, authentic, challenging, practical
+- Differentiator: Systems + Faith + Real-world experience
+
+### Core Mantras (Use in Content):
 - "Audit yourself before the world audits you."
 - "You are the problem. Good news—you're also the solution."
 - "Don't trust your feelings—train your standards."
 - "Kill the story. Keep the standard."
 - "Clarity is created by commitment—not the other way around."
 - "You don't have a motivation problem. You have a consequence problem."
-- "Transformation worth having is one you bleed for."
 - "Nobody's coming to save you."
 - "Systems beat willpower—every time."
-- "Honor and privilege."
-- "Let's go."
+- "Profit is made at acquisition."
 - "Skin in the game."
-- "Analysis paralysis: If you're still thinking after week two, you're planning your own failure."
-
-**Voice Characteristics:**
-- Bold optimism grounded in unshakable realism
-- Challenges limiting beliefs head-on with practical next steps
-- Blend of humor, candid truth, and results-oriented focus
-- Firm but uplifting—encourage AND demand measurable results
-- **Raw and authentic over polished and corporate** (this is critical based on what performs)
-- Confrontational when needed, but always from belief in the person's potential
-- Faith-centered without being preachy
-- Specific numbers and timeframes for credibility
 
 ---
 
-## VIRAL CONTENT PRINCIPLES (Apply to Every Post)
+## CONTENT PRINCIPLES FROM RESEARCH
 
-Based on research analysis:
+After reading the research files, apply these proven patterns:
 
-### The 3 E's Priority Order:
-1. **Entertainment** - Makes people stop scrolling, want to share
-2. **Emotion** - Creates connection, relatability, reaction
-3. **Education** - Keeps people coming back, builds authority
+### The 3 E's (Priority Order):
+1. **Entertainment** - Stop the scroll, make them want to share
+2. **Emotion** - Create connection, relatability, reaction
+3. **Education** - Build authority, provide value
 
-### What Goes Viral:
-| Element | Why It Works | Example |
-|---------|-------------|---------|
-| Hook in first 3 seconds | Stops the scroll | "Stop lying to yourself..." |
-| Polarizing opinions | Generates debate/comments | "Goal setting is overrated" |
-| Specific numbers | Creates credibility | "$600 to $10M", "28 days", "5:30 AM" |
-| Raw beats polished | Authenticity builds trust | Office setting, not studio |
-| Story-based vulnerability | Connection > perfection | "I lost everything at 42..." |
-| Pattern interrupts | Unexpected angles | Challenge common advice |
-| Confrontational openings | Direct accusation hooks | "You're not stuck. You're comfortable." |
+### What Performs Best:
+- Raw/authentic beats polished
+- Specific numbers create credibility ("$600 to $10M", "28 days", "5:30 AM")
+- Polarizing opinions generate engagement
+- Story-based vulnerability builds trust
+- Pattern interrupts grab attention
 
-### Proven Hook Formats (Use These):
-- "You're not [X]. You're [unexpected truth]."
-- "The reason you're still [problem] isn't what you think..."
-- "I lost everything and here's what nobody tells you..."
-- "Stop [common advice]. Here's what actually works..."
-- "The [number] second decision that changed my life..."
-- "Nobody talks about the [dark side/real truth] of [topic]..."
-- "Let me tell you how your [X] sounds to everyone else..."
-- "[Number] days. [Number] phases. Here's the exact framework..."
-
-### Content Structure for Each Post:
-**Hook** (3 seconds) → **Agitation** (create tension) → **Story/Example** (make it real) → **Solution/Insight** (the payoff) → **Soft CTA** (invite action)
+### Platform-Specific Insights:
+- **LinkedIn:** Carousels perform extremely well, text-first often beats video, professional vulnerability works, high-value B2B audience
+- **Instagram:** Test content here first, Reels under 30 seconds, save-worthy carousels
+- **TikTok:** First 1-2 seconds critical, trending formats, entertainment over education
 
 ---
 
-## DETAILED POST FORMAT (Follow This Exactly)
+## DETAILED POST FORMAT
 
 For each post, provide ALL of the following:
 
@@ -176,302 +131,252 @@ For each post, provide ALL of the following:
 
 ## POST [NUMBER]: "[TITLE]"
 
-### PLATFORM & FORMAT
-- **Primary Platform:** [Instagram Reel / TikTok / YouTube Short / LinkedIn / Facebook / Multi-platform]
-- **Content Type:** [Video Script / Carousel / Single Image + Caption / Text Post / Story Series]
-- **Duration/Length:** [60 sec / 90 sec / 3-5 min / 10 slides / etc.]
-- **Optimal Posting Time:** [Morning 6-8am / Lunch 12-1pm / Evening 7-9pm]
+### BASICS
+- **Platform:** [LinkedIn / Instagram / TikTok / Multi-platform]
+- **Format:** [Infographic / Quote Graphic / Carousel / Meme / Video Concept]
+- **Content Category:** [Mindset / Business / Real Estate / Leadership / Entertainment / Motivational]
 
 ### SCORES
-- **Viral Potential:** [1-10] - [Brief reason]
-- **Demand Generation:** [1-10] - [How directly it drives to IGNITE]
-- **Controversy Level:** [Low / Medium / High]
-- **Production Complexity:** [Simple / Moderate / Complex]
+- **Viral Potential:** [1-10]
+- **Shareability:** [1-10]
+- **Save-Worthy:** [1-10]
+- **Engagement Bait:** [Low / Medium / High]
 
-### HOOK (First 3 Seconds)
-[Write the exact opening line - this is the most critical part]
+### THE HOOK
+[The attention-grabbing headline or opening - this appears on the visual]
 
-### FULL SCRIPT/CAPTION
-[Complete word-for-word script for video OR full caption for image post]
+### CONCEPT DESCRIPTION
+[2-3 sentences explaining what this post is about and why it will perform well]
 
-**Beat 1 - Hook (0-3 sec):**
-[Opening line]
+### VISUAL DESIGN SPECIFICATION
 
-**Beat 2 - Agitation (3-15 sec):**
-[Create tension, identify the pain]
+**Visual Type:** [Single Image / Carousel / Infographic / Quote Card / Meme / Chart / Framework Diagram]
 
-**Beat 3 - Story/Example (15-45 sec):**
-[Personal story, client example, or relatable scenario]
+**For Single Image/Quote Graphic:**
+- **Background:** [Color, gradient, texture, or image description]
+- **Main Visual Element:** [What is the focal point - text, icon, photo, illustration]
+- **Text Content:** [Exact words that appear on the image]
+- **Typography:** [Font style, size hierarchy, colors]
+- **Layout:** [Where elements are positioned]
+- **Color Palette:** [Specific colors to use]
+- **Mood/Style:** [Cinematic, minimalist, bold, professional, etc.]
 
-**Beat 4 - Solution/Insight (45-75 sec):**
-[The reframe, the answer, the "aha"]
+**For Carousel (specify each slide):**
 
-**Beat 5 - Call to Action (75-90 sec):**
-[Soft CTA that invites without selling hard]
+**Slide 1 (Hook):**
+- Visual: [Description]
+- Text: [Exact text]
+- Design notes: [Any specific design elements]
 
-### VISUAL DESCRIPTION FOR AI IMAGE GENERATION (GEMINI)
+**Slide 2:**
+- Visual: [Description]
+- Text: [Exact text]
 
-**If Video:**
-[Describe the visual setup, camera angle, setting, lighting, any B-roll needed]
+[Continue for all slides...]
 
-**Scene/Setting:**
-[Detailed description - e.g., "Modern office with city view in background, morning golden hour light streaming through windows, clean desk with laptop visible"]
+**Final Slide (CTA):**
+- Visual: [Description]
+- Text: [Exact text]
 
-**Toby's Appearance/Positioning:**
-[e.g., "Direct to camera, confident but approachable expression, casual business attire (no tie, sleeves rolled), standing or seated at desk"]
+**For Infographic:**
+- **Title:** [Main headline]
+- **Sections:** [List each section with content]
+- **Visual Elements:** [Icons, charts, illustrations needed]
+- **Flow:** [How the eye moves through the content]
+- **Data/Stats:** [Any numbers or statistics to include]
 
-**Camera Work:**
-[e.g., "Medium shot, slight low angle to convey authority, static or subtle push-in during key moments"]
+### GEMINI IMAGE GENERATION PROMPT
 
-**Color Palette & Mood:**
-[e.g., "Warm tones, deep blacks, gold accents, cinematic feel but not overproduced"]
+[Write the EXACT prompt to give Gemini to create this visual. Be specific about:]
+- Style (minimalist, cinematic, corporate, bold, etc.)
+- Colors (specific hex codes or descriptions)
+- Text placement and font style
+- Aspect ratio (1:1 for feed, 9:16 for stories, 4:5 for Instagram)
+- Mood and tone
+- Any specific elements to include/exclude
 
-**Text Overlays:**
-- **Main Text:** [Exact text to appear on screen]
-- **Font Style:** [Bold sans-serif / Clean modern / etc.]
-- **Placement:** [Center / Lower third / etc.]
-- **Animation:** [Pop in / Fade / Slide from left / etc.]
+**Example Gemini Prompt:**
+"Create a bold, minimalist quote graphic with a dark charcoal background (#1a1a1a). Center the text 'NOBODY'S COMING TO SAVE YOU' in large white Bebas Neue font. Below in smaller gold (#D4AF37) text: '- Toby Potter'. Add a subtle geometric pattern in the corners. Professional, masculine, powerful mood. Square format (1:1) for Instagram feed. High contrast, clean design."
 
-**B-Roll Suggestions (if applicable):**
-[List 3-5 B-roll clips that could enhance the video]
+### CAPTION
+[The text that accompanies the post - optimized for each platform]
 
-**If Static Image/Carousel:**
-[Detailed image description for each slide]
+**LinkedIn Version:** [Professional tone, can be longer, use line breaks]
 
-**Slide 1:**
-- **Visual:** [Detailed description]
-- **Text Overlay:** [Exact text]
-- **Color Scheme:** [Colors to use]
+**Instagram Version:** [Engaging, use emojis sparingly, include CTA]
 
-[Repeat for each slide]
+**TikTok Version:** [Short, punchy, trend-aware]
 
-**Gemini Prompt for Image Generation:**
-[Write the exact prompt to give Gemini to generate this image]
-Example: "Create a cinematic portrait of a confident male entrepreneur in his 40s, standing in a modern office. He's wearing a navy blue button-down with sleeves rolled up. Golden hour lighting from large windows. Direct eye contact with camera. Bold white text overlay reads 'NOBODY'S COMING TO SAVE YOU' - use Bebas Neue font. Dark, moody atmosphere with warm highlights. 4K quality, 9:16 aspect ratio for Instagram Stories."
+### HASHTAGS
+**LinkedIn:** [5-7 professional hashtags]
+**Instagram:** [15-20 mixed reach hashtags]
+**TikTok:** [5-7 trending/relevant hashtags]
 
-### CAPTION (For Non-Video Posts)
-[Full Instagram/LinkedIn caption with formatting]
-
-### HASHTAGS (For Instagram/TikTok)
-[10-15 relevant hashtags organized by reach]
-**High Reach:** #motivation #entrepreneur #mindset
-**Medium Reach:** #businesscoach #personaldevelopment
-**Niche:** #igniteyourlife #tobypotter #unshakable
-
-### CALL TO ACTION OPTIONS (Choose One)
-- [ ] "This is what we train in IGNITE. Link in bio."
-- [ ] "Ready to stop drifting? IGNITE starts Monday. Link in bio."
-- [ ] "Comment 'IGNITE' and I'll send you the details."
-- [ ] "DM me 'READY' for the IGNITE breakdown."
-- [ ] "If this hit different, you might be ready for IGNITE."
-- [ ] No CTA (pure value post)
-- [ ] Custom CTA: [Write custom]
-
-### REPURPOSING NOTES
-**This post can become:**
-- [ ] Long-form YouTube video (topic expansion)
-- [ ] Carousel breakdown
-- [ ] LinkedIn text post
-- [ ] Email content
-- [ ] Podcast talking points
-- [ ] Quote graphic series
-
-**Best derivative format:** [Recommendation]
-
-### IGNITE PROGRAM CONNECTION
-[How this post connects to IGNITE's value proposition - be specific]
+### ENGAGEMENT STRATEGY
+- **Best time to post:** [Day/time]
+- **Engagement hook:** [Question or CTA to drive comments]
+- **Expected reaction:** [What emotion/action this should trigger]
 
 ---
 ```
 
 ---
 
-## CONTENT CATEGORIES & DISTRIBUTION
+## CONTENT CATEGORIES FOR EACH BATCH
 
 ### Batch 1: Posts 1-25
-**Wake Up Call Content (15 posts):**
-Confrontational, pattern-interrupt content that challenges the viewer's current state.
-- Topics: Comfort zones, excuses, self-deception, mediocrity, wasted potential, taking responsibility
-- Style: Andy Elliott inspired - direct, challenging, "tough love"
-- Hook style: Direct accusation/challenge
+**Mindset & Identity (13 posts):**
+- Success mindset infographics
+- Identity shift frameworks
+- Mental toughness quotes
+- Accountability visuals
+- Self-audit frameworks
 
-**Transformation Stories (10 posts):**
-Before/after narratives, personal struggle stories, vulnerability
-- Topics: Rock bottom moments, breakthrough realizations, specific failures that taught lessons
-- Style: Alex Hormozi inspired - lead with failures, specific numbers, honest journey
-- Hook style: Vulnerable admission with specific detail
+**Business Wisdom (12 posts):**
+- Entrepreneurship insights
+- Sales wisdom
+- Scaling frameworks
+- Business mistakes to avoid
+- Revenue/growth charts
 
 ### Batch 2: Posts 26-50
-**Tactical Systems (15 posts):**
-Practical frameworks and actionable steps from IGNITE methodology
-- Topics: Morning routines, goal-setting alternatives, accountability systems, decision-making frameworks, weekly rituals
-- Style: Russell Brunson inspired - Hook-Story-Offer, actionable value
-- Hook style: Promise of specific framework/result
+**Success Frameworks (13 posts):**
+- Step-by-step process infographics
+- Decision-making matrices
+- Morning/evening routine visuals
+- Goal-setting alternatives
+- Habit formation frameworks
 
-**Faith & Purpose (10 posts):**
-Spiritual grounding content that differentiates from secular coaches
-- Topics: Purpose, calling, stewardship, faith in action, divine partnership, service
-- Style: Authentic, not preachy - faith as foundation not performance
-- Hook style: Purpose-driven questions or realizations
+**Controversial Takes (12 posts):**
+- Hot takes on popular advice
+- Myth-busting content
+- "Unpopular opinion" format
+- Challenge conventional wisdom
+- Debate-starting statements
 
 ### Batch 3: Posts 51-75
-**Business & Wealth (15 posts):**
-Entrepreneurship, real estate, financial freedom content
-- Topics: Deal-making, scaling, cash flow, business building, real estate principles, sales mastery
-- Style: Toby's expertise - specific numbers, real examples, "profit is made at acquisition"
-- Hook style: Specific results or contrarian business takes
+**Real Estate & Wealth (13 posts):**
+- Investment principles
+- Deal analysis frameworks
+- Cash flow visuals
+- Property investment myths
+- Wealth-building steps
 
-**Relationship & Legacy (10 posts):**
-Family, leadership, generational wealth, leaving a mark
-- Topics: Marriage, parenting, team building, mentorship, legacy creation, being present
-- Style: Vulnerable, real - not Instagram-perfect family content
-- Hook style: Personal revelation or legacy question
+**Leadership (12 posts):**
+- Team building insights
+- Hiring/firing wisdom
+- Leadership vs management
+- Culture creation
+- Delegation frameworks
 
 ### Batch 4: Posts 76-100
-**Behind the Scenes / Raw & Real (10 posts):**
-Day-in-the-life, team dynamics, real moments, journey sharing
-- Topics: Daily routine, team meetings, failures in real time, lessons from this week
-- Style: Maximum authenticity - this is what gets 60-130K views per team meeting
-- Hook style: "Here's what's actually happening..."
+**Entertainment/Memes (13 posts):**
+- Entrepreneur meme formats
+- Relatable business humor
+- "Me vs. My Goals" style
+- Industry-specific jokes
+- Trending meme adaptations
 
-**Mixed Viral Formats (15 posts):**
-Controversy, myth-busting, trending formats, duets, response videos
-- Topics: Challenging popular advice, controversial opinions, responding to common objections
-- Style: Designed for maximum shareability and debate
-- Hook style: Contrarian statements that demand response
-
----
-
-## PLATFORM-SPECIFIC OPTIMIZATION NOTES
-
-### Instagram Reels
-- Under 30 seconds for maximum reach
-- Trending audio increases visibility
-- Raw/unpolished often outperforms produced
-- Caption should be substantial (2,200 character limit)
-- Test content here before YouTube production
-
-### TikTok
-- First 1-2 seconds MUST hook
-- Green screen format with controversial takes
-- Duets/stitches with other creators increase reach
-- Trending sounds are essential
-- Algorithm currently showing issues - focus on Instagram
-
-### LinkedIn
-- Text-first posts often perform better than video
-- Professional vulnerability stories work best
-- Business results and case studies
-- Carousels perform well (40% of Hormozi's posts)
-- Higher-value audience - B2B focus
-- **Crazy virality potential** per team meeting
-
-### YouTube Shorts
-- Hook within 1 second
-- Full value delivery in 60 seconds
-- Clear CTA at end
-- Vertical format, fast cuts
-- Can be repurposed from longer content
-
-### Facebook
-- Longer videos acceptable (3-5 minutes)
-- Community-building language
-- Live video announcements
-- Older demographic than TikTok
+**Motivational (12 posts):**
+- Powerful quote graphics
+- Comeback story visuals
+- Monday motivation
+- Weekend grind content
+- Success reminder graphics
 
 ---
 
-## VISUAL STYLE GUIDE FOR GEMINI IMAGE GENERATION
+## VISUAL STYLE GUIDE
 
-### Primary Visual Themes:
-1. **Cinematic/Dramatic** - Dark backgrounds, single light source, intense mood
-2. **Documentary Style** - Raw, real-world settings, natural lighting
-3. **Bold Typography** - High contrast text overlays on simple backgrounds
-4. **Split Screen** - Before/after, comparison visuals
-5. **Action Shots** - Movement, energy, determination
+### Color Palette Options:
 
-### Color Palette:
-- **Primary:** Deep blacks, rich golds, clean whites
-- **Accent:** Fire orange (#FF6B35), Steel blue (#4A90A4)
-- **Mood:** Masculine, premium, powerful but accessible
-- **Avoid:** Pastel colors, overly bright/cheerful tones
+**Option 1 - Dark & Bold:**
+- Background: Charcoal (#1a1a1a) or Black (#000000)
+- Primary Text: White (#FFFFFF)
+- Accent: Gold (#D4AF37) or Fire Orange (#FF6B35)
+- Secondary: Steel Blue (#4A90A4)
 
-### When Featuring Toby:
-- Confident but approachable expression
-- Direct eye contact with camera
-- Professional but not corporate (no suits unless context requires)
-- Settings: Office, gym, real estate properties, speaking stage, home with family
-- Authentic moments > posed perfection
+**Option 2 - Clean & Professional:**
+- Background: Off-White (#F5F5F5) or Light Gray (#E8E8E8)
+- Primary Text: Dark Navy (#1B2838)
+- Accent: Deep Blue (#2C5282) or Forest Green (#2D5A27)
+- Secondary: Warm Gray (#6B7280)
 
-### Text Overlay Guidelines:
-- **Fonts:** Bold, sans-serif (Bebas Neue, Montserrat Bold, Impact)
-- **Contrast:** White on dark, or dark on light with shadow
-- **Key phrases:** Highlighted in gold/orange
-- **Maximum words:** 7 words on screen at once
-- **Placement:** Upper or lower third, never center unless dramatic pause
+**Option 3 - High Contrast:**
+- Background: Pure White (#FFFFFF)
+- Primary Text: Black (#000000)
+- Accent: Red (#DC2626) or Electric Blue (#3B82F6)
+- Borders: Gray (#9CA3AF)
 
-### Image Generation Tips for Gemini:
-- Always specify aspect ratio (9:16 for Stories/Reels, 1:1 for feed, 16:9 for YouTube)
-- Include lighting description (golden hour, dramatic side light, natural window light)
-- Specify mood words (cinematic, raw, authentic, powerful, intimate)
-- Include text overlay instructions directly in prompt
-- Request 4K quality for print-ready output
+### Typography Guidelines:
+- **Headlines:** Bold sans-serif (Bebas Neue, Oswald, Montserrat Bold)
+- **Body Text:** Clean sans-serif (Inter, Open Sans, Roboto)
+- **Accent Text:** Can use serif for contrast (Playfair Display, Merriweather)
+- **Numbers/Stats:** Extra bold, oversized for impact
 
----
+### Design Principles:
+- Whitespace is powerful - don't overcrowd
+- One main message per visual
+- Maximum 7 words for quote graphics
+- Use hierarchy: biggest = most important
+- Consistent branding across all posts
 
-## SOFT CTA OPTIONS (Rotate Throughout)
-
-**Direct to IGNITE:**
-- "This is what we train in IGNITE. Link in bio."
-- "Ready to stop drifting? IGNITE starts Monday."
-- "The 28-day protocol that changes everything. Link in bio."
-- "Join 500+ rebuilding their lives. Link in bio."
-- "Comment 'IGNITE' and I'll send you the details."
-- "DM me 'READY' for the IGNITE breakdown."
-
-**Soft / Value-First:**
-- "If this hit different, you might be ready."
-- "This is day [X] of what we cover in IGNITE..."
-- "What would change if you had real accountability?"
-- No CTA (pure value posts build trust for later conversion)
-
-**Engagement-Driving:**
-- "What's the excuse you keep telling yourself?"
-- "Comment your answer below..."
-- "Tag someone who needs to hear this."
-- "Save this for when you need the reminder."
+### Aspect Ratios:
+- **Instagram Feed:** 1:1 (square) or 4:5 (portrait)
+- **Instagram Stories/Reels:** 9:16
+- **LinkedIn:** 1:1 or 1.91:1 (landscape)
+- **TikTok:** 9:16
+- **Carousel Slides:** 1:1 or 4:5
 
 ---
 
-## QUALITY CHECKLIST (Before Finalizing Each Post)
+## ENGAGEMENT-DRIVING CAPTIONS
 
-Before submitting each post, verify:
+### Caption Formulas That Work:
 
-- [ ] Hook is in first 3 seconds and stops the scroll
-- [ ] Contains at least one of: entertainment, emotion, OR education
-- [ ] Uses authentic Toby voice (not generic motivational)
-- [ ] Includes specific numbers or timeframes where relevant
-- [ ] Visual description is detailed enough for Gemini to generate
-- [ ] CTA is soft and appropriate for the content
-- [ ] Post leads logically toward IGNITE program interest
-- [ ] Repurposing opportunities are identified
-- [ ] Platform optimization notes are included
-- [ ] Post feels RAW and AUTHENTIC, not overproduced
+**The Controversial Opener:**
+"[Hot take].\n\nHere's why everyone gets this wrong..."
+
+**The List Hook:**
+"3 things I wish I knew at [age/stage]:\n\n1. [Point]\n2. [Point]\n3. [Point]\n\nWhich one hits hardest?"
+
+**The Story Tease:**
+"I lost [something significant].\n\nBut here's what nobody tells you about hitting rock bottom..."
+
+**The Question Flip:**
+"You're not [problem].\n\nYou're [reframe].\n\nBig difference."
+
+**The Save-Worthy:**
+"Save this for when you need the reminder:\n\n[Powerful statement]"
+
+**The Engagement Bait:**
+"Agree or disagree? 👇\n\n[Polarizing statement]"
+
+---
+
+## QUALITY CHECKLIST
+
+Before finalizing each post, verify:
+
+- [ ] Visual is scroll-stopping (would YOU stop for this?)
+- [ ] Hook is clear and compelling
+- [ ] Gemini prompt is specific enough to generate the exact image
+- [ ] Content provides value OR entertainment (ideally both)
+- [ ] NOT directly selling anything - pure brand building
+- [ ] Matches Toby's authentic voice
+- [ ] Platform-optimized (right format, length, hashtags)
+- [ ] Includes engagement driver (question, CTA, save prompt)
+- [ ] Would perform well based on research insights
 
 ---
 
-## BEGIN BATCH CREATION
+## BEGIN CREATING
 
-**For Batch 1 (Posts 1-25):** Create 15 Wake Up Call posts (#1-15) and 10 Transformation Story posts (#16-25)
-
-**For Batch 2 (Posts 26-50):** Create 15 Tactical Systems posts (#26-40) and 10 Faith & Purpose posts (#41-50)
-
-**For Batch 3 (Posts 51-75):** Create 15 Business & Wealth posts (#51-65) and 10 Relationship & Legacy posts (#66-75)
-
-**For Batch 4 (Posts 76-100):** Create 10 Behind the Scenes posts (#76-85) and 15 Mixed Viral Format posts (#86-100)
-
----
+**Step 1:** Read the research files listed at the top of this prompt
+**Step 2:** Apply the insights to inform your content strategy
+**Step 3:** Create 25 posts following the detailed format above
+**Step 4:** Ensure each post has a complete Gemini image generation prompt
 
 **START CREATING BATCH [INSERT NUMBER] NOW.**
 
-Follow the detailed format template for each post. Be thorough with visual descriptions - they will be used for actual image generation with Gemini.
+Remember: This is BRAND BUILDING, not selling. Entertainment and emotion first. Every post needs a visual that can be generated with Gemini.
